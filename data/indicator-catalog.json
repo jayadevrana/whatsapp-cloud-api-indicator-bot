@@ -1,0 +1,37 @@
+[
+  {
+    "id": "ema-trend-suite",
+    "title": "EMA Trend Suite",
+    "url": "https://www.tradingview.com/script/example-ema-trend-suite/",
+    "description": "Trend-following EMA ribbon with momentum confirmation.",
+    "keywords": ["ema", "trend", "moving average", "scalping", "intraday"]
+  },
+  {
+    "id": "stoch-sr-reversal",
+    "title": "Stoch SR Reversal",
+    "url": "https://www.tradingview.com/script/example-stoch-sr-reversal/",
+    "description": "Support-resistance reversal tool with stochastic timing.",
+    "keywords": ["stochastic", "sr", "support", "resistance", "reversal"]
+  },
+  {
+    "id": "breakout-volume-map",
+    "title": "Breakout Volume Map",
+    "url": "https://www.tradingview.com/script/example-breakout-volume-map/",
+    "description": "Breakout detector with session volume zones.",
+    "keywords": ["breakout", "volume", "range", "session", "momentum"]
+  },
+  {
+    "id": "options-oi-dashboard",
+    "title": "Options OI Dashboard",
+    "url": "https://www.tradingview.com/script/example-options-oi-dashboard/",
+    "description": "NSE-focused open-interest and sentiment panel.",
+    "keywords": ["options", "oi", "nse", "banknifty", "nifty"]
+  },
+  {
+    "id": "gold-m15-sniper",
+    "title": "Gold M15 Sniper",
+    "url": "https://www.tradingview.com/script/example-gold-m15-sniper/",
+    "description": "XAUUSD M15 setup finder for momentum pullbacks.",
+    "keywords": ["gold", "xauusd", "m15", "forex", "pullback"]
+  }
+]
